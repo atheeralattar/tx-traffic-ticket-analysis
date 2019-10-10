@@ -17,7 +17,7 @@ import pandas as pd
 import requests, zipfile, io
 ```
 
-### Data aquisition
+### 2.Data-Aquisition
 The data of the project is in a form of compressed file hosted online, it will be downloaded and extracted to the project directory. You can always host the data anywhere else and change the pointer in the read csv  line
 
 
