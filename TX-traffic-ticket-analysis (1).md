@@ -37,7 +37,7 @@ z.extractall()
 tn_raw=pd.read_csv(z.namelist()[0], low_memory=False)
 ```
 
-### 1-Data_Cleaning
+### 1-Data_Cleaning.
 In this step we will select the column of interest and  will drop all the na values in these columns.
 
 
